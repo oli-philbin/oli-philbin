@@ -13,6 +13,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 |-----------------------------------------------|----------------------------|
 | Active Directory           | <a href="https://github.com/oli-philbin/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
 | Packet Analysis With Wireshark | <a href="https://github.com/oli-philbin/Wireshark-Labs/tree/main">Wireshark Labs</a>|
+| Linux CLI | <a href="https://github.com/oli-philbin/Linux-CLI/tree/main">Linux Labs</a>|
 
 ## Tools
 
@@ -57,3 +58,4 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ## Projects
 - <a href="https://github.com/oli-philbin/Active-Directory-Lab/tree/main">Active Directory Lab</a>
 - <a href="https://github.com/oli-philbin/Wireshark-Labs/tree/main">Wireshark Labs</a>
+- <a href="https://github.com/oli-philbin/Linux-CLI/tree/main">Linux Labs</a>
