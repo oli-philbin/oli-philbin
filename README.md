@@ -58,6 +58,5 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ## Projects
 - <a href="https://github.com/oli-philbin/Phishing-Analysis/tree/main">Phishing Analysis</a>
-- <a href="https://github.com/oli-philbin/Active-Directory-Lab/tree/main">Active Directory Lab</a>
-- <a href="https://github.com/oli-philbin/Wireshark-Labs/tree/main">Wireshark Labs</a>
-- <a href="https://github.com/oli-philbin/Linux-CLI/tree/main">Linux Labs</a>
+- <a href="https://github.com/oli-philbin/Bruce-Force-Analysis/tree/main">Brute Force Analysis</a>
+
