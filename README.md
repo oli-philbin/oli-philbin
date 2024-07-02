@@ -12,7 +12,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Phishing Analysis          | <a href="https://github.com/oli-philbin/Phishing-Analysis/tree/main">Phishing Analysis</a>|
-| Brute Force Analysis       | <a href="https://github.com/oli-philbin/Brute-Force-Analysis/main">Brute Force Analysis</a>|
+| Brute Force Analysis       | <a href="https://github.com/oli-philbin/Brute-Force-Analysis/tree/main">Brute Force Analysis</a>|
 
 
 
